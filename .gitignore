@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# NPM package lock files (optional, if you use yarn, for example)
+package-lock.json
+yarn.lock
+
+# MacOS system files
+.DS_Store
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Build and dependency directories
+dist/
+build/
+
+
